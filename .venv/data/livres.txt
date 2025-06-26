@@ -1,0 +1,10 @@
+0;PHP;Anthony Doerr;2014;Informatique;emprunte
+1;js;George Orwell;1949;Informatique;emprunte
+2;The Great Gatsby;F. Scott Fitzgerald;1925;Classique;emprunte
+3;Le Petit Prince;Antoine de Saint-Exupéry;1943;Philosophie;emprunte
+4;To Kill a Mockingbird;Harper Lee;1960;Roman;emprunte
+7;Dune;Frank Herbert;1965;Science-Fiction;emprunte
+8;Sapiens: Une brève histoire de l'humanité;Yuval Noah Harari;2014;Histoire;emprunte
+9;Miracle;F. Scott Fitzgerald;2000;Classique;disponible
+10;Wisdom;Hellenistec;1546;literature;emprunte
+11;Atomic  Habit;James Clear;2018;Self help;disponible

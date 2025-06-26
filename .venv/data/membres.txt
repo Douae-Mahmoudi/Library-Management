@@ -1,0 +1,9 @@
+1;Ilyass Sefrioui;0,1,10
+2;Khadija El Haddadi;2
+3;Aya Kaddouri;
+4;Rania Jaroudi;4
+5;Adam El Alwari;7
+6;Omar Choukri;8,3
+7;Asmae Manssouri;
+8;Nassima El Mouradi;
+9;Layla Hassnaoui;
